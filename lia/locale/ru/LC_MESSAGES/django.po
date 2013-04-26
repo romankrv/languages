@@ -21,7 +21,7 @@ msgstr ""
 
 #: templates/index.html:14
 msgid "Hello world"
-msgstr ""
+msgstr "Привет мир"
 
 #: templates/index.html:19
 msgid "Language"
